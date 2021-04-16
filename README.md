@@ -29,6 +29,12 @@ Open the game in Unity and run.
 You can run each game scene as you wish
 More Details to be updated!
 
+**Issues**
+* Images take time to flip back after selected
+* To enable multi-player features
+* Record how many times the image was revelead
+* Pairs matched disappar quickly
+
 
 **Contributions**
 
