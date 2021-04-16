@@ -17,7 +17,7 @@ Basically you need to have installed:
 
 **Installation**
 
-    See the unity website https://unity.com/
+    See the Unity [website](https://unity.com/)
 
     git clone https://github.com/BadisaMosesane/Tswana_Pairs_Matching_Game.git
 
